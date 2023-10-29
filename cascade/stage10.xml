@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage10>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-1.7600995302200317e+00</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 77276 -8.4683611989021301e-02</internalNodes>
+      <leafValues>
+        1. -8.4501844644546509e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 134869 3.6007784307003021e-02</internalNodes>
+      <leafValues>
+        -5.8972400426864624e-01 6.6408485174179077e-02</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 147905 -3.3271707594394684e-02</internalNodes>
+      <leafValues>
+        4.6192133426666260e-01 -2.6391083002090454e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 87296 1.3034439645707607e-02</internalNodes>
+      <leafValues>
+        1.2427673488855362e-01 -9.2331814765930176e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 150639 8.6118541657924652e-03</internalNodes>
+      <leafValues>
+        -3.8065677881240845e-01 3.1440064311027527e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 95086 2.2858563810586929e-02</internalNodes>
+      <leafValues>
+        -1.8484641611576080e-01 6.2516802549362183e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 96543 1.0260471608489752e-03</internalNodes>
+      <leafValues>
+        -3.2310339808464050e-01 3.4078139066696167e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 85030 3.6113098263740540e-02</internalNodes>
+      <leafValues>
+        1.4673210680484772e-01 -8.0233538150787354e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 9177 3.1687002629041672e-03</internalNodes>
+      <leafValues>
+        -3.2318198680877686e-01 3.3212631940841675e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 161330 -9.2724003479816020e-05</internalNodes>
+      <leafValues>
+        -4.7103223204612732e-01 2.2628964483737946e-01</leafValues></_></weakClassifiers></stage10>
+</opencv_storage>
