@@ -19,14 +19,12 @@ private:
     QPixmap pixMap;
     QLabel *videoDispaly;
     cv::CascadeClassifier cascade;
-    cv::CascadeClassifier nestedCascade;
     double scale=1;
 
     void onTimerTimeout();
 
-    void detectAndDraw( cv::Mat& img,
+    void detectAndDraw(cv::Mat& img,
                        cv::CascadeClassifier& cascade,
-                       cv::CascadeClassifier& nestedCascade,
                        double scale);
 
 
